@@ -17,7 +17,7 @@ FILE_PATH = BASE_DIR / "data" / "raw" / "sales_data.csv"
 # DATABASE CONFIG
 # =========================
 USER = "root"
-PASSWORD = "T3quierovid@mia"
+PASSWORD = "contraseña de mysql"
 HOST = "localhost"
 PORT = 3306
 DATABASE = "sales_dw"
