@@ -1,0 +1,21 @@
+# Entornos virtuales
+prueba/
+env/
+venv/
+.conda/
+
+# Python
+__pycache__/
+*.pyc
+
+# Variables sensibles
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
